@@ -1,0 +1,8 @@
+/* Default styling */
+html, body, div, header, h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	text-align: baseline;
+	font-size: 100%;
+}
