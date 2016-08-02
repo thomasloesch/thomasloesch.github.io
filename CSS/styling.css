@@ -1,3 +1,33 @@
-h3 {
-	font-size: 500%;
+h1 {
+	font-size: 200%;
+}
+
+h2 {
+	font-size: 175%;
+}
+
+#header {
+	text-align: center;
+	padding: 2em;
+}
+
+#main {
+	
+}
+
+#footer {
+	text-align: center;
+	padding: 1em;
+}
+
+.navList {
+	list-style-type: none;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
 }
