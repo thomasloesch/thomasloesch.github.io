@@ -11,6 +11,11 @@ h2 {
 	padding: 2em;
 }
 
+#nav {
+	display: block;
+}
+
+
 #main {
 	
 }
